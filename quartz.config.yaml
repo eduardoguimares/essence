@@ -7,11 +7,12 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: eduardoguimares.github.io/quartz
+  baseUrl: eduardoguimares.github.io/essence
   ignorePatterns:
     - private
     - templates
     - .obsidian
+    - "For me"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
