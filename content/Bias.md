@@ -1,0 +1,13 @@
+---
+topic:
+  - Psychology
+tags:
+  - tolearn
+---
+- Egocentric bias - the tendency to underestimate external factors in the impact of an outcome
+	- Most people think they do most of the work
+- Confirmation bias
+- Survivorship bias
+	- History is made by the winners
+- Illusion of explanatory depth
+- Absence of evidence is different from evidence against

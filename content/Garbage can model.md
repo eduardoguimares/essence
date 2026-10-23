@@ -1,0 +1,3 @@
+The garbage can [[model]] describes the chaotic reality of the [[Decision making]] approach in an Organized anarchy[^1]. The garbage can symbolizes the collection and mix of problems and solutions in the brainstorming phase. From this mix a choice opportunity emerges as it reflects into a decision
+
+[^1]: An organized anarchy is a choice opportunity characterized by problematic preferences, unclear technology and fluid participation

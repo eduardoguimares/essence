@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "/"
+        - file.tags.containsAny("tolearn", "todevelop", "toorganize")
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+  - type: cards
+    name: View

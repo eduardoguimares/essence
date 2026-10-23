@@ -1,0 +1,6 @@
+---
+topic:
+  - Management
+tags:
+  - todevelop
+---

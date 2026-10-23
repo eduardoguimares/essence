@@ -1,0 +1,5 @@
+---
+tags:
+  - todevelop
+---
+Withholding key information in a story to keep the audience curious

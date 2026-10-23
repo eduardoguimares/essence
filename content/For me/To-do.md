@@ -1,0 +1,23 @@
+# Notes
+- [ ] Jungian psychology from C.S. Joseph lectures and his [recommended books](https://csjoseph.life/the-essentials-of-a-cs-joseph-education/)
+- [ ] hoe_math levels of consciousness
+- [ ] Untools
+- [ ] A map of all knowledge, objectivity, subjectivity, epistemology, empiricism, ontology, realism, materialism, nominalism, dualism, cognitivism, etc.
+- [ ] The scientific method
+- [ ] Uncertainty principle, Observer effect, Observer bias
+- [ ] https://comunidades-aprendizagem.dge.mec.pt/pt/formacao-em-comunidades-de-aprendizagem
+- [ ] Find encyclopedias
+- [ ] Content, information and knowledge management systems in organizations
+- [ ] network and graph analysis
+- [ ] Color theory and music theory
+- [ ] Basics of physics and mathematics
+	- [ ] Diminishing returns
+- [ ] Parts of the brain and chinese medicine
+# Improving Obsidian
+- [ ] Create Essence logo to put on front page and icon logo (symmetric E's)
+- [ ] Add numbering to heading obsidian 1.1 1.2 ...
+- [ ] Find the best way to publish on the Internet
+- [ ] Consider changing the note callout color to the background color https://github.com/damiankorcz/Prism-Theme/wiki/Callout-Customisation
+- [ ] Consider changing the color of the underline on links when hovering
+- [ ] Consider adding an AI assistant tool
+- [ ] Consider adding a writing assistant tool
