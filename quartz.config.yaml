@@ -13,7 +13,6 @@ configuration:
     - templates
     - .obsidian
     - "For me"
-    - Media
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
