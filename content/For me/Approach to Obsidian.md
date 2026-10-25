@@ -133,24 +133,13 @@ As simple as possible
 | ❌     | Harper                                                        | Grammar corrector. Very limited                                                                                                                                                                                                                                                                                        |
 | ❌     | Language tool integration                                     | Need Language tool premium                                                                                                                                                                                                                                                                                             |
 | ❌     | Advanced tables                                               | Similar but worse than Notion databases                                                                                                                                                                                                                                                                                |
+## Excalidraw
+
+Because of quartz (publish to website framework), I have to display svg files on the markdown files
 
 ## Publish
 
-- [ ] Try to self-host
-✅ Webpage html export → converts markdown to html in order to be able to publish
-- [ ] Need to find a way to export and upload automatically
-✅ Cloudfare
-- [ ] Need to find a way to redirect to home page
-❔ Vercel
-❔ Netlify
-❌ Github to publish → need to make the repo public
-❌ Digital garden → need github to work properly
-❌ Quartz → need github to work properly ([https://quartz.jzhao.xyz/](https://quartz.jzhao.xyz/))
-1. Downloaded Node.js together with a bunch of other necessary stuff
-2. Also download git bash to use the git command line for some config
-3. Cloned quartz locally
-4. Synced changes to github using git command line
-5. Create a website
+See Anytype "Website hosting, domain and building"
 
 # Limitations
 

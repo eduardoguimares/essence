@@ -12,6 +12,6 @@ Wisdom is the ability to apply knowledge in the most beneficial way
 
 %%
 Hypothetical
-![[Epistemology model|700]]
+![[Epistemology model.svg|700]]
 move to my website and link there
 %%

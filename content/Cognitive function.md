@@ -8,8 +8,7 @@ The bones of the human [[Typology|Personality types]][^5]. Inherent to the human
 
 It's also possible to hypothesize a construct of the [[Collective personality]]
 
-![[Cognitive functions|700]]
-%%[[Cognitive functions|🖋 Edit in Excalidraw]]%%
+![[Cognitive functions.svg|700]]
 
 # [[Perception and Judgement]]
 

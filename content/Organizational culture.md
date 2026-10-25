@@ -8,7 +8,7 @@ Organization culture influences how employees interact, make decisions, and cont
 
 # Organizational levels
 
-![[Levels of organizational culture|600]]
+![[Levels of organizational culture.svg|600]]
 
 ### Artifacts and creations
 
@@ -30,7 +30,7 @@ How and by whom decisions should be made
 
 # Functions of organizational culture
 
-![[Organizational culture process|700]]
+![[Organizational culture process.svg|700]]
 
 1. Identity expresses cultural understandings
 2. Expressed identity leaves impressions on others that creates an image
@@ -79,7 +79,7 @@ Organization is the expression and manifestation of the human consciousness
 
 ## Edgar Schein's cultural framework
 
-![[Edgar Schein's cultural framework|700]]
+![[Edgar Schein's cultural framework.svg|700]]
 
 ### Artifacts and creations
 
@@ -105,7 +105,7 @@ Meritocracy the belief that hard work leads to success
 
 Conceived culture as a dynamic process
 
-![[Hatch's Culture Dynamics Model|700]]
+![[Hatch's Culture Dynamics Model.svg|700]]
 
 ## Joanne Martin's culture perspectives
 

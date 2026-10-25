@@ -32,11 +32,11 @@ It acknowledges that within an organization or society, various stakeholders hav
 
 Negotiation is an important component to manage conflicting interests. It involves discussions, bargaining and reaching agreements to address divergent viewpoints
 
-![[Media/Pluralist perspective|700]]
+![[Media/Pluralist perspective.svg|700]]
 
 ## Industry frames of reference
 
-![[Industry 4 frames of reference|700]]
+![[Industry 4 frames of reference.svg|700]]
 Radical perspective - worker/management conflict is an inevitable outcome of capitalist social relations
 
 Interactionist - conflict is a necessary and positive force, helping stir innovation. This frame is derived from the pluralist frame

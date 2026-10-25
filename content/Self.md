@@ -7,9 +7,9 @@ topic:
 tags:
   - todevelop
 ---
-According to Carl Jung, the Jung is the wholeness of the human psyche
+According to Carl Jung, the Self is the wholeness of the human psyche
 
-![[Sovereign human being|700]][^1]
+![[Sovereign human being.svg|700]][^1]
 We are the combination of 4 dimensions, in a more macro perspective
 
 When we analyse ourselves microscopically, we can deduce [[Typology|Personality types]]

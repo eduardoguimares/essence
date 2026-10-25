@@ -3,6 +3,7 @@
 One of the first dilemmas started in 1880s with the invention of the portable camera. Newspapers started taking pictures of private and luxurious events which helped newspapers sell more[^1].
 
 > [!d] Why should anyone be allowed to take pictures of other people without their consent?
+> Protection could be an answer
 
 # Dilemmas
 

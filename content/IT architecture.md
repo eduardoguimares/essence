@@ -14,7 +14,7 @@ Enterprise architecture is able to deal with the IT landscape in a way that it a
 This requires a project start architecture made by a project team that underlines how the total landscape will look when the project is complete[^2]
 
 ## Levels[^3]
-![[IT architecture journey|700]]
+![[IT architecture journey.svg|700]]
 
 ### Application [[Data silo|Silo]] Architecture
 

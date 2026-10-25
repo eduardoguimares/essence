@@ -10,7 +10,7 @@ This empowers workers and improves productivity
 
 # The adaptive execution cycle
 
-![[Adaptive execution cycle]]
+![[Adaptive execution cycle.svg|302]]
 
 1. Plan
 	- Determine monitoring objectives and information needs

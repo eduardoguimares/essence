@@ -7,6 +7,6 @@ topic:
 
 # Business model canvas example
 
-![[Media/Business model|721]][^1]
+![[Media/Business model.svg|721]][^1]
 
 [^1]: *Revenue model types and examples*, alexsoft.com

@@ -4,7 +4,7 @@ topic:
 ---
 A [[model]] that identifies and analyzes five competitive forces that shape every industry and helps determine an industry's weaknesses and strengths
 
-![[Illustration of Porter's 5 forces|700]]
+![[Illustration of Porter's 5 forces.svg|700]]
 
 # Threat of new entrants
 

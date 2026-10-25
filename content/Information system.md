@@ -32,7 +32,7 @@ IS's are processes used for
 
 # Types of information systems
 
-![[Types of information systems]]
+![[Types of information systems.svg]]
 
 ## Executive Information Systems
 

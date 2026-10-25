@@ -11,7 +11,7 @@ Each block contains (at least)
 
 *Since each block contains information about the previous block, they effectively form a chain, with each additional block linking to the ones before it. Consequently, blockchain transactions are irreversible in that, once they are recorded, the data in any given block cannot be altered retroactively without altering all subsequent blocks* [^2]
 
-![[Media/Blockchain|700]]
+![[Media/Blockchain.svg|700]]
 
 # History
 

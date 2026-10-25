@@ -22,7 +22,7 @@ Properties without context. Data can refer to a product, client, event, activity
 
 # Data life cycle
 
-![[Data life cycle|700]]
+![[Data life cycle.svg|700]]
 
 - Data from various sources is stored in a database
 - It can be sold in a Data Mart or directly analysed through [[Online analytical processing]], queries, Executive Information Systems or Decision Support Systems

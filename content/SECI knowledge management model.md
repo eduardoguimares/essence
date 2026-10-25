@@ -4,7 +4,7 @@ topic:
 ---
 The SECI model of knowledge management, developed by Ikujiro Nonaka and Hirotaka Takeuchi, describes how organizations create and manage knowledge through a dynamic interplay between tacit and explicit knowledge
 
-![[SECI model]]
+![[SECI model.svg]]
 # Socialization
 
 Socialization enables individual tacit knowledge to be shared and to become collective

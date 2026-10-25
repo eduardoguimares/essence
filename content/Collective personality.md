@@ -41,9 +41,8 @@ Countries in hotter climates - much more passionate
 
 East asian countries - naturally focused on their soul; the north-east is a plce were many spiritual philosophies are from
 
-## Cultural types
+## Cultural types[^1]
 
-Developed by Richard Lewis
+![[Country cultural types.svg|700]]
 
-![[Country cultural types.png]]
-%%[[Media/Country cultural types|🖋 Edit in Excalidraw]]%%
+[^1]: Richard Lewis

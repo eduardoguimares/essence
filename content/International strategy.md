@@ -68,7 +68,7 @@ Additionally **governmental policies** can help increase these advantages by
 
 # International strategies
 
-![[International strategies|700]]
+![[International strategies.svg|700]]
 
 **Exportation strategy** - leverages the products of the country of origin
 - Works with strong brands

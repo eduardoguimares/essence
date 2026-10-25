@@ -2,7 +2,6 @@
 aliases:
   - Fractal
 ---
-
 Sometimes it's useful to focus on the details. Other times it's useful to get a more holistic view
 
 > [!c]- The macro patterns are similar to the micro patterns

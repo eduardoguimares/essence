@@ -36,7 +36,7 @@ It contains 7 layers
 
 ## Models combined together[^4]
 
-![[Internet models combined.excalidraw|700]]
+![[Internet models combined.excalidraw.svg|700]]
 
 # History
 

@@ -2,8 +2,6 @@
 aliases:
   - Decision
 ---
-
-
 # Types of decisions
 
 - **Reduced** - foreseen technical decisions which tend to be restricted

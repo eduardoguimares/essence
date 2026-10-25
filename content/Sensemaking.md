@@ -12,7 +12,7 @@ Sensemaking is the process in which people give meaning to their experience and 
 - Organization emerges from sensemaking
 - Organization empowers sensemaking
 
-![[Sensemaking - Karl Weick|700]][^1]
+![[Sensemaking - Karl Weick.svg|700]][^1]
 
 Sensemaking helps people make sense of an event and react to it. People use analogous situations to respond to an event, which reflects in their decisions
 

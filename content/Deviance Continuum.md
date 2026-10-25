@@ -5,7 +5,7 @@ topic:
 
 Deviance continuum is a very useful [[Perspective]]. It refers to a spectrum that considers both positive and negative results
 
-![[Media/deviance continuum|700]]
+![[Media/Deviance continuum.svg|700]]
 
 The left side is refers to the negative deviance continuum and it represents negative results
 

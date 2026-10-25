@@ -38,3 +38,12 @@ Because I intend to learn about the topic and develop the page and I haven't had
 Some notes are subject to my personal opinion and might not be accurate. Again, this space is supposed to represent my thinking
 
 Citations do not follow an academic style
+
+### Contact
+
+[eduardob.framer.website/contact](eduardob.framer.website/contact)
+
+Because
+- You found a typo
+- You want to provide constructive criticism
+- of another reason

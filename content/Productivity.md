@@ -2,7 +2,6 @@
 aliases:
   - Efficiency
 ---
-
 # Time vs energy
 
 It's useful to consider energy management in addition to time management, since it is a very relevant variable

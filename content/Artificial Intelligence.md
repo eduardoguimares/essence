@@ -6,7 +6,7 @@ topic:
 ---
 AI refers to the machines or computational systems that replicate the Human intelligence
 
-![[Artificial Intelligence types|700]]
+![[Artificial Intelligence types.svg|700]]
 
 [[Artificial Intelligence]] - tries to replicate the human intelligence
 [[Machine Learning]] - uses data to train computational models

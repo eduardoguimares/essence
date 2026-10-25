@@ -11,7 +11,7 @@ aliases:
 
 [[Data]], [[Information]], [[Knowledge]] and [[Wisdom]] putting into perspective
 
-![[Media/DIKW pyramid|DIKW pyramid|500]]
+![[Media/DIKW pyramid|DIKW pyramid.svg|500]]
 
 Learning levels:
 - Get information

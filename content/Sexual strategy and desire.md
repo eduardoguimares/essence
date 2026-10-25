@@ -2,18 +2,6 @@
 topic:
   - Psychology
 ---
-# The male sexual strategy
-
-The strategy of the men is clear: Polygyny. Biologically it makes sense because it maximizes the Humanity's growth
-
-Here's a simplified simulation. Imagine that a pre-historical tribe of humans has 10 men and 10 women. Each man and woman has a level of healthiness attributed to them. Men's healthiness is correlated with their amount and quality of resources because fitter men will be able to acquire more resources than their counter-parts. Also, let's define the healthiness of a new-born as the average of the level of healthiness of his parents. What would be the pairing strategy that would maximize the healthiness of the tribe, and therefore, the probability of survival?
-
-Answer:
-
-![[Sexual strategy simulation 2]]
-%%[[Sexual strategy simulation 2|🖋 Edit in Excalidraw]]%%
-This is a very raw simulation since it doesn't account for the possibility of [[Nurture]] leading children to a different level of development later in life and both the tribe's value and people's values. This is a model that only show the biological perspective
-
 # The female sexual strategy
 
 *Female physiological arousal (as measured by vaginal lubrication) occurs in response to viewing most any type of sexual activity: man with woman, woman with woman, man with man. Even watching sex among Bonobo monkeys stimulates physiological arousal in women.*[^2]
@@ -35,9 +23,12 @@ It's interesting that[^2]:
 - *Female desire, according to Meana, is activated when a woman feels overwhelmingly desired, not rationally considered*
 - Female desire *does not follow social or religious rules*
 
+# The male sexual strategy
 
 [^2]: Title: *What Do Women Really Want?* 
 Author: Noam Shpancer
 Date: 2023
 Website title: Psychology Today
 [Source web page](https://www.psychologytoday.com/us/blog/insight-therapy/201308/what-do-women-really-want)
+
+
