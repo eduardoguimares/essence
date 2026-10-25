@@ -8,7 +8,7 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   return (
     <article class="popover-hint">
       <h1 style="text-align:center">404</h1>
-      <p style="text-align:center">Sorry, this note doesn't exist yet</p>
+      <p style="text-align:center">Sorry, this note doesn't exist yet or it might have been moved to a different URL</p>
       <div style="text-align:center"><a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a></div>
       <script
         dangerouslySetInnerHTML={{
