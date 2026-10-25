@@ -1,8 +1,6 @@
 ---
 topic:
   - Philosophy
-tags:
-  - tolearn
 ---
 There's the logical truth and the empirical truth %%Spiritual or emotional truth??%%
 

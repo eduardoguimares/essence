@@ -1,6 +1,4 @@
 ---
-tags:
-  - tolearn
 topic:
   - Psychology
 ---

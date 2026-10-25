@@ -1,6 +1,0 @@
----
-topic:
-  - Philosophy
-tags:
-  - tolearn
----

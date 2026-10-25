@@ -1,8 +1,6 @@
 ---
 topic:
   - Philosophy
-tags:
-  - tolearn
 ---
 
 God is the pinnacle of abstraction

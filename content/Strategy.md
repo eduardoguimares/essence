@@ -1,8 +1,6 @@
 ---
 topic:
   - Management
-tags:
-  - toorganize
 ---
 # What is strategy
 

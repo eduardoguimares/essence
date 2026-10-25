@@ -1,7 +1,3 @@
----
-tags:
-  - toorganize
----
 # Subjective processes
 
 Power can be exerted and influenced in numerous ways

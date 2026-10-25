@@ -4,8 +4,6 @@ aliases:
 topic:
   - Psychology
   - Philosophy
-tags:
-  - todevelop
 ---
 According to Carl Jung, the Self is the wholeness of the human psyche
 

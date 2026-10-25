@@ -3,8 +3,6 @@ aliases:
   - Internalization
 topic:
   - Psychology
-tags:
-  - tolearn
 ---
 According to the [[SECI knowledge management model]], learning is the conversion of explicit knowledge to tacit knowledge
 

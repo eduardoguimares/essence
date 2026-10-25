@@ -1,7 +1,3 @@
----
-tags:
-  - tolearn
----
 
 *Education is the passport to the future, for tomorrow belongs to those who prepare for it today*[^1]
 

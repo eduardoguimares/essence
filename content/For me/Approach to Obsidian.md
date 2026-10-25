@@ -95,8 +95,6 @@ The author and year is the most important. I won't be saving the URL because the
 
 # Metadata
 
-In the future, I'll be able to hide specific properties like excalidraw-plugin and cssclasses
-- Tags - tolearn, todevelop, toorganize (hidden)
 - Aliases
 - Topic
 

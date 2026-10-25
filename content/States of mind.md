@@ -1,6 +1,3 @@
----
-tags: tolearn
----
 *Love enhances global processing and [[Creativity|creative]] thinking whereas sex enhances local processing and analytic [[thinking]]*[^2]
 
 

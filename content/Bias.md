@@ -1,8 +1,6 @@
 ---
 topic:
   - Psychology
-tags:
-  - tolearn
 ---
 - Egocentric bias - the tendency to underestimate external factors in the impact of an outcome
 	- Most people think they do most of the work

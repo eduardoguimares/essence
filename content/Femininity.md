@@ -1,6 +1,4 @@
 ---
 aliases:
   - Feminine
-tags:
-  - tolearn
 ---
