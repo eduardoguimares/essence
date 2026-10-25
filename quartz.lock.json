@@ -1,6 +1,12 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "crawl-links": {
+      "source": "github:quartz-community/crawl-links",
+      "resolved": "https://github.com/quartz-community/crawl-links.git",
+      "commit": "9a899bd8cce7cfc1ebfc68e4bd7ab6b4c6fcfd6f",
+      "installedAt": "2026-10-25T01:52:39.641Z"
+    },
     "obsidian-flavored-markdown": {
       "source": "github:quartz-community/obsidian-flavored-markdown",
       "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",

@@ -281,6 +281,16 @@ plugins:
       enableCheckbox: false
       enableObsidianUri: true
     order: 30
+  - source: github:quartz-community/crawl-links
+    enabled: true
+    options:
+      markdownLinkResolution: absolute
+      prettyLinks: true
+      openLinksInNewTab: false
+      lazyLoad: false
+      externalLinkIcon: true
+      disableBrokenWikilinks: false
+    order: 60
 layout:
   groups:
     toolbar:
