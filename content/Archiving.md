@@ -1,6 +1,3 @@
----
-tags: []
----
 
 > [!a] *A place in which public records or historical materials (such as documents) are preserved*[^1]
 

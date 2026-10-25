@@ -1,6 +1,3 @@
----
-tags:
----
 Bounded rationality is a term introduced by Herbert Simon to describe the cognitive limitations of the human [[Rationality]], in contrast with the [[Homo economicus]] narrative[^1]. That considered, Herbert Simon proposes the [[Satisficing]] decision-making strategy instead of an optimal decision-making strategy, which is humanly impossible
 
 # Limitations[^2]

@@ -1,5 +1,5 @@
 <div style="color:#7F00FF; font-size:50px; font-weight:bold; border:solid; border-radius:10px; text-align: center">Welcome to Essence</div>
-<div style="color:#FFFFFF; font-size:30px; font-weight:bold; border-radius: 10px; border:solid; text-align:center">Revealing Reality</div>
+<div style="color:var(--dark); font-size:30px; font-weight:bold; border-radius: 10px; border:solid; text-align:center">Revealing Reality</div>
 <div style="color:#FFFFFF; font-size:18px; padding:8px; border-radius: 10px; border:solid; text-align:center;margin-bottom:50px"><div>This space is meant to support and represent my learning status</div><div>My aim is to understand the fundamentals of reality</div></div>
 # Topics of interest
 

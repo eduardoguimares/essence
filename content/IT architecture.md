@@ -1,5 +1,4 @@
 ---
-tags: 
 topic:
   - Technology
 ---
