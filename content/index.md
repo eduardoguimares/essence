@@ -15,7 +15,7 @@ These are some of my favourite notes
 
 # About me
 
-[eduardob.framer.website/about-me](eduardob.framer.website/about-me)
+[eduardob.framer.website/about-me](https://eduardob.framer.website/about-me)
 
 # FAQ
 
@@ -41,7 +41,7 @@ Citations do not follow an academic style
 
 ### Contact
 
-[eduardob.framer.website/contact](eduardob.framer.website/contact)
+[eduardob.framer.website/contact](https://eduardob.framer.website/contact)
 
 Because
 - You found a typo
