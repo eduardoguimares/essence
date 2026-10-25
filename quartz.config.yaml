@@ -5,7 +5,6 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics: null
-    provider: plausible
   locale: en-US
   baseUrl: eduardoguimares.github.io/essence
   ignorePatterns:
